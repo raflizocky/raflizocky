@@ -21,7 +21,7 @@ I'm currently developing my skills in the following areas:
 - MySQL
 
 ## Future Aspirations
-My ultimate goal is to become a front-end web developer and contribute to impactful projects. I aim to work with industry-leading companies, such as the "Big 4," where I can apply my skills, collaborate with talented professionals, and contribute to the development of innovative web applications.
+My ultimate goal is to become a front-end web developer and contribute to impactful projects. I aim to work with industry-leading companies, where I can apply my skills, collaborate with talented professionals, and contribute to the development of innovative web applications.
 
 ## Contact Me
 If you have any questions, suggestions, or would like to connect, feel free to reach out to me at : 
