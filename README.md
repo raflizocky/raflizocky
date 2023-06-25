@@ -22,7 +22,7 @@ I have an interest in programming and design. I am currently studying in college
 <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white"/>
 
-and more...
+and more... (I'll update soon)
 
 ## Contact
 - raflizocky@gmail.com
