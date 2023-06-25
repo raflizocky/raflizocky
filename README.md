@@ -24,5 +24,7 @@ I have an interest in programming and design. I am currently studying in college
 
 and more... (I'll update soon)
 
+Note : I'm still learning, so dont think of me as an expert 🤣
+
 ## Contact
 - raflizocky@gmail.com
