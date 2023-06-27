@@ -2,7 +2,7 @@
 
 **`(Frontend Web Developer/Mobile Developer/UI-UX Design)`**
 
-I have an interest in programming and design. I am currently studying in college, and studying both fields. Currently, I'm still learning the language and tools I use, so don't think I'm already proficient in those below. Stay tuned for more content displayed here.
+I have a passion for programming and design. As a college student, I am actively studying and pursuing knowledge in both fields. Although I am still in the learning process, I am dedicated to mastering the languages and tools relevant to these areas. The content displayed here will reflect my progress and growth as I continue to explore and develop my skills. Stay tuned for updates and further advancements in my journey.
 
 ---
 
