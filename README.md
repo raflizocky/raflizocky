@@ -1,6 +1,6 @@
 # Rafli Zocky Leonard
 
-**`(Frontend Web/Mobile/UI-UX)`**
+**`(Frontend Web Developer/Mobile Developer/UI-UX Design)`**
 
 I have an interest in programming and design. I am currently studying in college, and studying both fields. Currently, I'm still learning the language and tools I use, so don't think I'm already proficient in those below. 
 
@@ -26,3 +26,5 @@ I have an interest in programming and design. I am currently studying in college
 <br />
 
 #
+
+Stay tuned for more content displayed here.
