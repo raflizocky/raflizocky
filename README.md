@@ -1,6 +1,6 @@
 # Rafli Zocky Leonard
 
-**`(Frontend Web Developer/Mobile Developer/UI-UX Design)`**
+**`(Frontend Web Developer/Mobile Developer/UI-UX Design)`** *wannabe
 
 I have a passion for programming and design. As a college student, I am actively studying and pursuing knowledge in both fields. Although I am still in the learning process, I am dedicated to mastering the languages and tools relevant to these areas. The content displayed here will reflect my progress and growth as I continue to explore and develop my skills. Stay tuned for updates and further advancements in my journey.
 
