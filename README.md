@@ -1,6 +1,6 @@
 # Rafli Zocky Leonard
 
-**`(Web, Mobile, & Design)`**
+**`(Web, Mobile, & UI/UX)`**
 
 Hello! Thanks for stopping by. I'm deep into learning diverse tech stacks. Feel free to connect or ask via email or LinkedIn.
 
