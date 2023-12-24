@@ -1,34 +1,14 @@
-# Rafli Zocky Leonard
-
-**`(Web, Mobile)`**
-
-Hello! Thanks for stopping by. I'm deep into learning diverse tech stacks. Feel free to connect or ask via email or LinkedIn.
+## 🛠 Tech Stack
+[![Web Logo](https://img.shields.io/badge/Web-%20%20%20%20HTML%20%7C%20CSS%20%7C%20JS%20%7C%20PHP-blue?logo=html5&style=for-the-badge)](https://www.w3.org/)
+[![Android Logo](https://img.shields.io/badge/Android-%20%20Kotlin%20%7C%20Java-blue?logo=android&style=for-the-badge)](https://developer.android.com/)
+[![Multi-Platform Logo](https://img.shields.io/badge/Multi--Platform-%20%20Dart-blue?logo=flutter&style=for-the-badge)](https://kotlinlang.org/)
 
 ---
 
-### Tech Stack
+## 📈 Github Stats
+  
+| <img align="center" width="500px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raflizocky&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="raflizocky's GitHub Stats"> | <img align="center" width="500px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raflizocky&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="raflizocky's Most Used Language">
+| ------------- | ------------- |  
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
-
-<br/>
-
-#
-
-### Stats
-
-<p align="left">
-<a href="https://github.com/raflizocky">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raflizocky&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raflizocky&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
+| <img width="1000px" src="https://github-readme-streak-stats.herokuapp.com/?user=raflizocky&hide_border=true&theme=radical">
+| ------------- |
