@@ -12,3 +12,7 @@
 
 | <img width="1000px" src="https://github-readme-streak-stats.herokuapp.com/?user=raflizocky&hide_border=true&theme=radical">
 | ------------- |
+
+---
+
+<img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
