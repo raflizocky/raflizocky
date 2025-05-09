@@ -13,7 +13,7 @@
 
 ------------------ -->
 
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/raflizocky_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
@@ -29,6 +29,8 @@
 </div>
 
 ### -->
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raflizocky/raflizocky/output/pacman-contribution-graph-dark.svg">
